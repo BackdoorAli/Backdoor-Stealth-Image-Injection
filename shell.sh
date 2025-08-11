@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Explanation will be provided step-by-step in the following comments (#'s).
+
 # Define the systemd backdoor service name
 SERVICE_NAME="system-netupd"
 
