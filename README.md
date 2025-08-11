@@ -1,5 +1,3 @@
-Backdoor Stealth Image Injection
-
 ## Overview
 This project demonstrates how an attacker can embed a Base64-encoded malicious payload inside the EXIF metadata of a valid `.png` image. Once uploaded to a vulnerable server, the image can trigger remote command execution or download further malware.
 
