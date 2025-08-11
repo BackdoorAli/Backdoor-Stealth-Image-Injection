@@ -26,3 +26,6 @@ systemctl daemon-reexec
 systemctl daemon-reload
 systemctl enable $SERVICE_NAME
 systemctl start $SERVICE_NAME
+
+# Again, please do remember the harm/damage it can inflict if used outside of safe/permitted working environments.
+# Use of malicious tools is of your own responsibility.
