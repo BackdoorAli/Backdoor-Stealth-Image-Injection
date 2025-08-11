@@ -28,4 +28,4 @@ systemctl enable $SERVICE_NAME
 systemctl start $SERVICE_NAME
 
 # Again, please do remember the harm/damage it can inflict if used outside of safe/permitted working environments.
-# Use of malicious tools is of your own responsibility.
+# Use of malicious tools is of your own responsibility and will most likely end up in being a criminal act with serious legal repercussions.
