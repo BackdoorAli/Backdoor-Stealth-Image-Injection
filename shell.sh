@@ -31,3 +31,4 @@ systemctl start $SERVICE_NAME
 
 # Again, please do remember the harm/damage it can inflict if used outside of safe/permitted working environments.
 # Use of malicious tools is of your own responsibility and will most likely end up in being a criminal act with serious legal repercussions.
+# Remember, nothing is ever truly 100% anonymous, there's always a trace, always a leak, aleays a bread crumb to be followed. With the rise of AI even more so, there's always a more skilled, better funded actor somewhere, waiting to catch up and connect the dots. Stay legal, stay ethical, stay safe :)
