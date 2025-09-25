@@ -1,5 +1,5 @@
 ## Overview
-This project demonstrates how an attacker can embed a Base64-encoded malicious payload inside the EXIF metadata of a valid `.png` image. Once uploaded to a vulnerable server, the image can trigger remote command execution or download further malware.
+This project demonstrates how attackers can embed a Base64-encoded malicious payload inside the EXIF metadata of a valid `.png` image. Once uploaded to a vulnerable server, the image can trigger remote command execution or download further malware.
 
 This educational repository simulates:
 - A valid `stealth_shell.png` with hidden malware in its EXIF fields.
