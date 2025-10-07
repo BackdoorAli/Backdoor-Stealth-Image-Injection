@@ -104,4 +104,4 @@ See `defense.md` for detailed strategies on detecting and preventing EXIF-based 
 ---
 
 ## Disclaimer
-This project is for educational and research purposes only. Unauthorized deployment, testing, or use of this payload outside of a legal lab or your own system is strictly prohibited and of YOUR OWN RESPONSIBILITY.
+This project is for educational and research purposes only. Unauthorised deployment, testing, or use of this payload outside of a legal lab or your own system is strictly prohibited and of YOUR OWN RESPONSIBILITY.
