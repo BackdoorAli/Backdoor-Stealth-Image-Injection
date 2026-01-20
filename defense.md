@@ -71,7 +71,7 @@ disable_functions = eval,system,exec,shell_exec,passthru,popen
 ```
 
 - Run web services under restricted users with minimal access
-- Monitor `/etc/systemd/system/` for unauthorized `.service` files
+- Monitor `/etc/systemd/system/` for unauthorised `.service` files
 
 ---
 
