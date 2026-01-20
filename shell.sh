@@ -30,5 +30,5 @@ systemctl enable $SERVICE_NAME
 systemctl start $SERVICE_NAME
 
 # Again, please do remember the harm/damage it can inflict if used outside of safe/permitted working environments.
-# Use of malicious tools is of your own responsibility and will most likely end up in being a criminal act with serious legal repercussions.
+# Use of malicious tools is of your own responsibility and will most likely end up in being a criminal offense with serious legal repercussions.
 # Remember, nothing is ever truly 100% anonymous, there's always a trace, always a leak, always a bread crumb waiting to be followed. If you think something is 100% airgapped, it usually isn't. Zero-days keep being found, vulnerabilities and tools keep rising and popping up unexpectedly. With the rise of the age of AI even more so, there's always a more skilled, better funded threat-actor somewhere on both sides of the table, waiting to catch up and connect the dots. Stay legal, stay ethical, stay safe and stay free :)
