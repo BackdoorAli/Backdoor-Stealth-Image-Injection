@@ -90,7 +90,7 @@ If image-based malware injection is suspected:
 - Pull a forensic copy of the uploaded image
 - Run `exiftool`, `binwalk`, and `strings` analysis
 - Check PHP error logs and access logs for `eval()` or shell activity
-- Monitor `/tmp/`, `/var/tmp/`, and `~/.cache` for unauthorized scripts
+- Monitor `/tmp/`, `/var/tmp/`, and `~/.cache` for unauthorised scripts
 
 ---
 
