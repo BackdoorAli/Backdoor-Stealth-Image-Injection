@@ -21,7 +21,7 @@ Author: [BackdoorAli](https://github.com/BackdoorAli)
 
 ---
 
-## 2. EXIF Metadata Sanitization
+## 2. EXIF Metadata Sanitisation
 
 Before storing or handling images:
 
